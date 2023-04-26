@@ -1,6 +1,5 @@
 ---
 layout: page
-subtitle: Kleinschalige dagbesteding in Gilze-Rijen
 title: Contact
 ---
 

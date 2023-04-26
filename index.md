@@ -6,7 +6,7 @@ layout: page
 full-width: true
 ---
 <span class="plaatje">
-![](/assets/img/background.png)
+![](/assets/img/background.webp)
 </span>
 
 <span class="logos">
