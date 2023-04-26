@@ -107,7 +107,9 @@ span.plaatje {
   text-align: center;
   width: 100%;
   }
-span.plaatje img { max-width: 100% }
+span.plaatje img { 
+  max-width: min(100%, 1000px) 
+}
 
 span.logos { 
   display: inline-block;
@@ -229,8 +231,8 @@ a.logos img {
 
 @media (min-width: 1200px) {
   .navbar-custom {
-    padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
   }
 
   .navbar-custom .navbar-brand-logo {
@@ -396,8 +398,9 @@ a.logos img {
 /* --- Footer --- */
 
 footer {
-  padding: 1.875rem 0;
+  padding: 0.875rem 0;
   border-top: 1px #EAEAEA solid;
+  OOOO
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
@@ -443,7 +446,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   footer {
-    padding: 3.125rem 0;
+    padding: 0.725rem 0;
   }
   footer .footer-links {
     font-size: 1.125rem;
