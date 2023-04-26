@@ -102,6 +102,15 @@ img::-moz-selection {
 img {
   max-width: 100%;
 }
+span.logos { 
+  <!--display: inline-block; width: 200%;-->
+
+}
+a.logos img { 
+  max-width: 16%; 
+  height: auto; 
+  padding: 1em
+}
 
 .linked-section {
   padding-top: 3.75rem;

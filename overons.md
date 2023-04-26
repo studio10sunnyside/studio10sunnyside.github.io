@@ -1,17 +1,14 @@
 ---
 layout: page
+subtitle: Kleinschalige dagbesteding in Gilze-Rijen
 title: Over ons
-subtitle: Kleinschalige dagbestedingen in Gilze-Rijen
+#cover-img: "/assets/img/background.png"
 ---
 
-#### Hier moet de tekst komen uit het boekje.
+Wij zijn 6 lokale ondernemers die elk een kleinschalige dagbesteding aanbieden binnen de gemeente Gilze-Rijen. Samen bieden we ondersteuning aan inwoners met verschillende hulpvragen, bijvoorbeeld voor senioren,mensen met en beperking, mensen die herstellen van letsel, mensen met een psychiatrisch ziektebeeld of jong-volwassenen.
 
-Sed commodo purus vel sollicitudin ultricies. Mauris lacinia efficitur lectus a tempor. Morbi vulputate ligula augue, vel dapibus velit pretium id. Nullam nisi ante, euismod vitae ultrices in, iaculis a nibh. Integer ac ligula auctor, vehicula urna sed, scelerisque elit. Nunc vestibulum rhoncus augue ac tristique. Maecenas nec maximus diam, in luctus ligula. Nam in erat non turpis tincidunt ultrices ut in risus. Mauris ut laoreet turpis. Sed id ullamcorper velit. Donec nec elit feugiat mauris tincidunt bibendum. Proin in mi in velit interdum vulputate.
+We willen dit lokale aanbod bij u onder de aandacht brengen, het kan relevant zijn voor uzelf of voor een naaste. Dagelijks zien we bij onze deelnemers dat een dagbesteding de mensen rust geeft, ontwikkeling, sociale contacten, ondersteuning en plezier; en het ontlast de mantelzorger. En als de noodzaak is vastgesteld, kan de overheid (vanuit de Wmo of WIz) een deel of alle zorgkosten op zich nemen.
 
-
-
-#### Nog wat meer tekst.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec viverra libero. Aliquam rhoncus tincidunt pharetra. Etiam est tortor, tempus at scelerisque et, ullamcorper id risus. Suspendisse potenti. Vestibulum aliquam facilisis gravida. Donec et turpis mauris. Integer imperdiet a lacus nec auctor. Duis mauris mi, pretium at mauris a, luctus interdum tellus.
+Als inwoner van de gemente heeft u grote keuzevrijheid waar u naar de dagbesteding wil. Ons aanbod is verschillend, en we willen graag dat ieder een plek vindt die bij ze past. Klik om naar onze websites te gaan, zo krijgt u van elk van ons een sfeerimpressie en wat uitleg. Bent u geinteresseerd in dagbesteding, of wilt u graag wat meer informatie, neem vooral contact op met een van ons. Tot ziens!
 
 
