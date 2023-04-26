@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Kleinschalige Dagbesteding
-subtitle: Gilze - Rijen - Hulten - Molenschot
-cover-img: "/assets/img/background.png"
-#full-width: true
+#title: Kleinschalige Dagbesteding
+#subtitle: Gilze - Rijen - Hulten - Molenschot
+#cover-img: "/assets/img/background.png"
+full-width: true
 ---
+<span class="plaatje">
+![](/assets/img/background.png)
+</span>
 
 <span class="logos">
 [!['t Raakeind](/assets/img/raakeind-logo.png)](https://www.zorgboerderijraakeind.nl/){:class="logos"}

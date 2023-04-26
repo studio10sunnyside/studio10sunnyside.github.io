@@ -72,8 +72,8 @@ hr.small {
 :target:before {
   content: "";
   display: block;
-  height: 3.125rem; /* navbar height */
-  margin: -3.125rem 0 0;
+  height: 2.125rem; /* navbar height */
+  margin: -2.125rem 0 0;
 }
 
 .hideme {
@@ -102,14 +102,21 @@ img::-moz-selection {
 img {
   max-width: 100%;
 }
-span.logos { 
-  <!--display: inline-block; width: 200%;-->
+span.plaatje {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  }
+span.plaatje img { max-width: 100% }
 
+span.logos { 
+  display: inline-block;
+  text-align: center;
 }
 a.logos img { 
-  max-width: 16%; 
-  height: auto; 
-  padding: 1em
+  max-width: 15%; 
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
 .linked-section {
