@@ -1137,3 +1137,14 @@ pre {
     display: inline-block;
   }
 }
+
+img.container-logo { 
+	padding: 1.5em 0;
+	border: 0px solid green;
+
+float: left;
+width:  500px;
+height: 200px;
+object-fit: scale-down;
+
+}
