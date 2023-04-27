@@ -1148,3 +1148,9 @@ height: 200px;
 object-fit: scale-down;
 
 }
+
+.nieuws-tekst {
+	display: block;
+	text-align: center;
+	padding: 2em 0
+}

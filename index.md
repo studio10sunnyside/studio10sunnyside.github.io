@@ -9,6 +9,11 @@ full-width: true
 ![](/assets/img/background.webp)
 </span>
 
+<span class="nieuws-tekst">
+<b>Nieuws:</b> op 8 juni 2023 organiseren wij een [netwerk bijeenkomst](/netwerk), geef je op en kom langs.<br/>
+Je kunt ook altijd [contact](/contact/) met ons opnemen voor meer informatie.
+</span>
+
 <span class="logos">
 [!['t Raakeind](/assets/img/raakeind.webp)](https://www.zorgboerderijraakeind.nl/){:class="logos"}
 [![Abel](/assets/img/abel.webp)](https://www.dagbestedingabel.nl/){:class="logos"}
